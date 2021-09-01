@@ -2,7 +2,4 @@ module github.com/wowchemy/starter-academic/exampleSite
 
 go 1.15
 
-require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210830150813-8b6612e7631c // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210830150813-8b6612e7631c // indirect
-)
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201230224646-25e0b0627f09 // indirect
